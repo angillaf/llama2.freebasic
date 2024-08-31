@@ -6,4 +6,4 @@ https://github.com/karpathy/llama2.c
 
 old version when it was 4xx lines
 
-converted to freebasic
+converted to freebasic (windows os only confirmed that this code works)
